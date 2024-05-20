@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Clock_2/clock/static/css/main.eb6c7520.css",
-    "main.js": "/Clock_2/clock/static/js/main.021db029.js",
-    "static/js/58.ccee6129.chunk.js": "/Clock_2/clock/static/js/58.ccee6129.chunk.js",
-    "static/js/453.28abebe5.chunk.js": "/Clock_2/clock/static/js/453.28abebe5.chunk.js",
-    "index.html": "/Clock_2/clock/index.html",
-    "main.eb6c7520.css.map": "/Clock_2/clock/static/css/main.eb6c7520.css.map",
-    "main.021db029.js.map": "/Clock_2/clock/static/js/main.021db029.js.map",
-    "58.ccee6129.chunk.js.map": "/Clock_2/clock/static/js/58.ccee6129.chunk.js.map",
-    "453.28abebe5.chunk.js.map": "/Clock_2/clock/static/js/453.28abebe5.chunk.js.map"
+    "main.css": "/Clock_2/static/css/main.eb6c7520.css",
+    "main.js": "/Clock_2/static/js/main.6b766e72.js",
+    "static/js/58.ccee6129.chunk.js": "/Clock_2/static/js/58.ccee6129.chunk.js",
+    "static/js/453.28abebe5.chunk.js": "/Clock_2/static/js/453.28abebe5.chunk.js",
+    "index.html": "/Clock_2/index.html",
+    "main.eb6c7520.css.map": "/Clock_2/static/css/main.eb6c7520.css.map",
+    "main.6b766e72.js.map": "/Clock_2/static/js/main.6b766e72.js.map",
+    "58.ccee6129.chunk.js.map": "/Clock_2/static/js/58.ccee6129.chunk.js.map",
+    "453.28abebe5.chunk.js.map": "/Clock_2/static/js/453.28abebe5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6c7520.css",
-    "static/js/main.021db029.js"
+    "static/js/main.6b766e72.js"
   ]
 }
